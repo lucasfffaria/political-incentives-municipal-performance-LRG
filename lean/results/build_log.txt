@@ -1,0 +1,146 @@
+# Build of the Lean proofs, 9 October 2026, on Windows (PowerShell).
+# Lean v4.15.0 and Mathlib v4.15.0 (commit 9837ca9d65d9de6fad1ef4381750ca688774e608); the exact revision of every
+# package is in ../lake-manifest.json, and the hashes of the files that were built are in SHA256SUMS.txt.
+# The output is copied from the console. Local paths are shortened (the prompt to `...\lean`), and the status
+# symbols ⚠ and ℹ, which the console displayed as "ÔÜá" and "Ôä╣", are restored. The warnings are style notes of
+# Mathlib's linters (a `;` would suffice where `<;>` is used, and two `ring` calls were not needed); they do not
+# affect any proof.
+
+PS ...\lean> lake exe cache get
+info: downloading https://releases.lean-lang.org/lean4/v4.15.0/lean-4.15.0-windows.tar.zst
+252.2 MiB / 252.2 MiB (100 %)  10.0 MiB/s ETA:   0 s
+info: installing C:\Users\...\.elan\toolchains\leanprover--lean4---v4.15.0
+info: LRGProofs: no previous manifest, creating one from scratch
+info: mathlib: cloning https://github.com/leanprover-community/mathlib4.git
+info: mathlib: checking out revision '9837ca9d65d9de6fad1ef4381750ca688774e608'
+info: toolchain not updated; already up-to-date
+info: plausible: cloning https://github.com/leanprover-community/plausible
+info: plausible: checking out revision '2c57364ef83406ea86d0f78ce3e342079a2fece5'
+info: LeanSearchClient: cloning https://github.com/leanprover-community/LeanSearchClient
+info: LeanSearchClient: checking out revision '003ff459cdd85de551f4dcf95cdfeefe10f20531'
+info: importGraph: cloning https://github.com/leanprover-community/import-graph
+info: importGraph: checking out revision '9a0b533c2fbd6195df067630be18e11e4349051c'
+info: proofwidgets: cloning https://github.com/leanprover-community/ProofWidgets4
+info: proofwidgets: checking out revision '2b000e02d50394af68cfb4770a291113d94801b5'
+info: aesop: cloning https://github.com/leanprover-community/aesop
+info: aesop: checking out revision '2689851f387bb2cef351e6825fe94a56a304ca13'
+info: Qq: cloning https://github.com/leanprover-community/quote4
+info: Qq: checking out revision 'f0c584bcb14c5adfb53079781eeea75b26ebbd32'
+info: batteries: cloning https://github.com/leanprover-community/batteries
+info: batteries: checking out revision 'e8dc5fc16c625fc4fe08f42d625523275ddbbb4b'
+info: Cli: cloning https://github.com/leanprover/lean4-cli
+info: Cli: checking out revision '0c8ea32a15a4f74143e4e1e107ba2c412adb90fd'
+info: mathlib: running post-update hooks
+installing leantar 0.1.14
+  % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
+                                 Dload  Upload  Total   Spent   Left   Speed
+  0      0   0      0   0      0      0      0                              0
+100 698.8k 100 698.8k   0      0 668.9k      0   00:01   00:01              0
+
+Attempting to download 5826 file(s)
+Downloaded: 5826 file(s) [attempted 5826/5826 = 100%] (100% success)
+Decompressing 5826 file(s)
+Unpacked in 17255 ms
+Completed successfully!
+No files to download
+Decompressing 5826 file(s)
+Unpacked in 120 ms
+Completed successfully!
+PS ...\lean> lake build
+⚠ [5838/5851] Built LRGProofs.Basic
+warning: .\.\.\.\LRGProofs\Basic.lean:45:15: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+note: this linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+⚠ [5839/5851] Built LRGProofs.Information
+warning: .\.\.\.\LRGProofs\Information.lean:33:13: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+note: this linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: .\.\.\.\LRGProofs\Information.lean:53:15: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+note: this linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: .\.\.\.\LRGProofs\Information.lean:64:15: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+note: this linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+⚠ [5842/5851] Built LRGProofs.Quadratic
+warning: .\.\.\.\LRGProofs\Quadratic.lean:19:13: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+note: this linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+⚠ [5844/5851] Built LRGProofs.Cosmetic
+warning: .\.\.\.\LRGProofs\Cosmetic.lean:21:15: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+note: this linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: .\.\.\.\LRGProofs\Cosmetic.lean:53:13: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+note: this linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+⚠ [5846/5851] Built LRGProofs.Sanctions
+warning: .\.\.\.\LRGProofs\Sanctions.lean:73:17: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+note: this linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: .\.\.\.\LRGProofs\Sanctions.lean:154:15: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+note: this linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: .\.\.\.\LRGProofs\Sanctions.lean:166:15: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+note: this linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+⚠ [5847/5851] Built LRGProofs.Money
+warning: .\.\.\.\LRGProofs\Money.lean:46:17: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+note: this linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: .\.\.\.\LRGProofs\Money.lean:51:17: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+note: this linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: .\.\.\.\LRGProofs\Money.lean:53:17: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+note: this linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+⚠ [5848/5851] Built LRGProofs.Effort
+warning: .\.\.\.\LRGProofs\Effort.lean:52:13: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+note: this linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: .\.\.\.\LRGProofs\Effort.lean:61:13: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+note: this linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: .\.\.\.\LRGProofs\Effort.lean:74:15: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+note: this linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: .\.\.\.\LRGProofs\Effort.lean:86:13: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+note: this linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: .\.\.\.\LRGProofs\Effort.lean:92:13: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+note: this linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: .\.\.\.\LRGProofs\Effort.lean:110:13: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+note: this linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: .\.\.\.\LRGProofs\Effort.lean:119:13: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+note: this linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: .\.\.\.\LRGProofs\Effort.lean:180:13: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+note: this linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: .\.\.\.\LRGProofs\Effort.lean:187:13: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+note: this linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: .\.\.\.\LRGProofs\Effort.lean:228:21: this tactic is never executed
+note: this linter can be disabled with `set_option linter.unreachableTactic false`
+warning: .\.\.\.\LRGProofs\Effort.lean:232:19: this tactic is never executed
+note: this linter can be disabled with `set_option linter.unreachableTactic false`
+warning: .\.\.\.\LRGProofs\Effort.lean:228:21: 'ring' tactic does nothing
+note: this linter can be disabled with `set_option linter.unusedTactic false`
+warning: .\.\.\.\LRGProofs\Effort.lean:232:19: 'ring' tactic does nothing
+note: this linter can be disabled with `set_option linter.unusedTactic false`
+warning: .\.\.\.\LRGProofs\Effort.lean:246:13: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+note: this linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: .\.\.\.\LRGProofs\Effort.lean:286:19: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+note: this linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: .\.\.\.\LRGProofs\Effort.lean:315:19: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+note: this linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: .\.\.\.\LRGProofs\Effort.lean:333:15: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+note: this linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: .\.\.\.\LRGProofs\Effort.lean:352:15: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+note: this linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+ℹ [5849/5851] Built LRGProofs.Axioms
+info: .\.\.\.\LRGProofs\Axioms.lean:20:0: 'LRG.hasDerivAt_cost' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: .\.\.\.\LRGProofs\Axioms.lean:21:0: 'LRG.effort_maximizes' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: .\.\.\.\LRGProofs\Axioms.lean:22:0: 'LRG.effort_unique' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: .\.\.\.\LRGProofs\Axioms.lean:23:0: 'LRG.effort_approx' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: .\.\.\.\LRGProofs\Axioms.lean:24:0: 'LRG.effort_diminishing' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: .\.\.\.\LRGProofs\Axioms.lean:25:0: 'LRG.cost_ge_quadratic' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: .\.\.\.\LRGProofs\Axioms.lean:26:0: 'LRG.cost_le' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: .\.\.\.\LRGProofs\Axioms.lean:27:0: 'LRG.quadratic_argmax_unique' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: .\.\.\.\LRGProofs\Axioms.lean:28:0: 'LRG.cosmetic_share_bonus' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: .\.\.\.\LRGProofs\Axioms.lean:29:0: 'LRG.cosmetic_share_falls_with_capacity' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: .\.\.\.\LRGProofs\Axioms.lean:30:0: 'LRG.hmWeight_falls_with_noise' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: .\.\.\.\LRGProofs\Axioms.lean:31:0: 'LRG.hmWeight_can_rise_with_substitution' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: .\.\.\.\LRGProofs\Axioms.lean:32:0: 'LRG.bakerRate_lt_one_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: .\.\.\.\LRGProofs\Axioms.lean:33:0: 'LRG.bakerRate_can_exceed_one' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: .\.\.\.\LRGProofs\Axioms.lean:34:0: 'LRG.hasDerivAt_sanctionProb_place' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: .\.\.\.\LRGProofs\Axioms.lean:35:0: 'LRG.hasDerivAt_sanctionProb_mayor' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: .\.\.\.\LRGProofs\Axioms.lean:36:0: 'LRG.misclassification_strictMono' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: .\.\.\.\LRGProofs\Axioms.lean:37:0: 'LRG.fail_at_least_one_tendsto' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: .\.\.\.\LRGProofs\Axioms.lean:38:0: 'LRG.sanction_term_far' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: .\.\.\.\LRGProofs\Axioms.lean:39:0: 'LRG.corr_function_le' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: .\.\.\.\LRGProofs\Axioms.lean:40:0: 'LRG.cov_change_lagged_noise' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: .\.\.\.\LRGProofs\Axioms.lean:41:0: 'LRG.concave_transfer' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: .\.\.\.\LRGProofs\Axioms.lean:42:0: 'LRG.partyScore_recruit_gain' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: .\.\.\.\LRGProofs\Axioms.lean:43:0: 'LRG.hasDerivAt_mobilisation_tied' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: .\.\.\.\LRGProofs\Axioms.lean:44:0: 'LRG.hasDerivAt_implQuality' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: .\.\.\.\LRGProofs\Axioms.lean:45:0: 'LRG.implQuality_ban_lowers' depends on axioms: [propext, Classical.choice, Quot.sound]
+Build completed successfully.

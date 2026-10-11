@@ -1,0 +1,78 @@
+{
+ "own_tax": {
+  "n_observed": 3231,
+  "r2_logit_model": 0.7258717336548814,
+  "observed_share_below10": 0.6484060662333643,
+  "n_below10_all": [
+   3732.95,
+   3761.0,
+   3790.0
+  ],
+  "n_pec188": [
+   1159.0,
+   1172.0,
+   1186.0
+  ],
+  "n_small": 1324,
+  "pop_pec188_mn": 3.905193,
+  "median_share_by_size": {
+   "<5k": 0.05531168413418606,
+   "5-10k": 0.06621045544097023,
+   "10-20k": 0.06860383294269409,
+   "20-50k": 0.0912745106588977,
+   "50-100k": 0.1381766380675919,
+   ">100k": 0.2089987540454504
+  },
+  "note": "RREO \"impostos\" includes IRRF retained by the municipality (art. 158 I); the PEC 188 test used IPTU, ISS and ITBI only, so these shares are upper bounds.",
+  "n_below10_by_region": {
+   "N": 382.0,
+   "NE": 1622.0,
+   "SE": 887.0,
+   "S": 654.0,
+   "CO": 217.0
+  }
+ },
+ "mergers": {
+  "n_absorbed": 1252,
+  "n_host_areas": 653,
+  "pop_absorbed_mn": 4.254365,
+  "municipalities_after": 4318,
+  "councillor_seats_removed": 11268,
+  "councillor_pay_saved_bn_cap": 0.9669816065519997,
+  "fpm_change_merged_areas_bn": -11.797801453399254,
+  "fpm_change_merged_areas_pct": -22.10657992697086,
+  "fpm_merged_areas_bn": 53.36782755348553,
+  "share_absorbed_NE": 0.19329073482428116,
+  "by_region": {
+   "N": 92,
+   "NE": 242,
+   "SE": 372,
+   "S": 423,
+   "CO": 123
+  }
+ },
+ "councillors": {
+  "max_seats_total": 60372,
+  "seats_below65k": 50573,
+  "municipalities_below65k": 5067,
+  "pay_cap_bill_below65k_bn": 5.646003759980999,
+  "pay_cap_bill_all_bn": 7.8152117662125,
+  "state_deputy_subsidy": 33006.39,
+  "note": "Upper bounds: the caps are maxima; councils fix pay below them and may have fewer seats."
+ },
+ "comissariado": {
+  "one_per_municipality_cost_bn": 1.9495,
+  "teams_of_three_cost_bn": 5.8485,
+  "eppgg_active_2023": 930,
+  "cnu_2024_federal_vacancies_note": "ATPS 500, EPPGG 150 in the 2024 national exam",
+  "years_to_staff_at_1500": 3.7133333333333334,
+  "cost_share_of_fpm": 0.009025462962962963
+ },
+ "viability_vs_performance": {
+  "corr_owntax_perf": 0.37564690636962056,
+  "perf_pec188_mean": 0.1196347119444577,
+  "perf_others_small_mean": 0.48602868486652834,
+  "perf_all_mean": 0.00021108146621991983,
+  "share_pec188_in_bottom_quintile_perf": 0.10143769968051118
+ }
+}

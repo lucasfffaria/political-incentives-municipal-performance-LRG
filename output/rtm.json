@@ -1,0 +1,274 @@
+{
+ "Literacy (K3)": {
+  "pairs": [
+   {
+    "t0": 2023,
+    "t1": 2024,
+    "rel_gain": 11.7017,
+    "rel_gain_sd": 0.5918,
+    "exit_share": 0.4592,
+    "n_flagged": 1078
+   }
+  ],
+  "mean_rel_gain": 11.70173035427485,
+  "mean_rel_gain_sd": 0.5918016110471596,
+  "mean_exit_share": 0.45918367346938777,
+  "unit": "natural units"
+ },
+ "IDEB": {
+  "pairs": [
+   {
+    "t0": 2017,
+    "t1": 2019,
+    "rel_gain": 0.2303,
+    "rel_gain_sd": 0.2221,
+    "exit_share": 0.3939,
+    "n_flagged": 914
+   },
+   {
+    "t0": 2019,
+    "t1": 2021,
+    "rel_gain": 0.4854,
+    "rel_gain_sd": 0.4976,
+    "exit_share": 0.2738,
+    "n_flagged": 851
+   },
+   {
+    "t0": 2021,
+    "t1": 2023,
+    "rel_gain": 0.0637,
+    "rel_gain_sd": 0.076,
+    "exit_share": 0.4531,
+    "n_flagged": 874
+   },
+   {
+    "t0": 2023,
+    "t1": 2025,
+    "rel_gain": 0.3828,
+    "rel_gain_sd": 0.4033,
+    "exit_share": 0.6945,
+    "n_flagged": 946
+   }
+  ],
+  "mean_rel_gain": 0.2905569532300479,
+  "mean_rel_gain_sd": 0.29973496115340126,
+  "mean_exit_share": 0.45381525902572106,
+  "unit": "natural units"
+ },
+ "Homicides (K7)": {
+  "pairs": [
+   {
+    "t0": 2010,
+    "t1": 2011,
+    "rel_gain": 19.9524,
+    "rel_gain_sd": 1.0226,
+    "exit_share": 0.505,
+    "n_flagged": 1099
+   },
+   {
+    "t0": 2011,
+    "t1": 2012,
+    "rel_gain": 18.8158,
+    "rel_gain_sd": 0.9723,
+    "exit_share": 0.4859,
+    "n_flagged": 1099
+   },
+   {
+    "t0": 2012,
+    "t1": 2013,
+    "rel_gain": 20.5489,
+    "rel_gain_sd": 0.993,
+    "exit_share": 0.5387,
+    "n_flagged": 1099
+   },
+   {
+    "t0": 2013,
+    "t1": 2014,
+    "rel_gain": 18.4764,
+    "rel_gain_sd": 0.8815,
+    "exit_share": 0.4531,
+    "n_flagged": 1099
+   },
+   {
+    "t0": 2014,
+    "t1": 2015,
+    "rel_gain": 19.8378,
+    "rel_gain_sd": 0.9271,
+    "exit_share": 0.4722,
+    "n_flagged": 1099
+   },
+   {
+    "t0": 2015,
+    "t1": 2016,
+    "rel_gain": 17.8256,
+    "rel_gain_sd": 0.8264,
+    "exit_share": 0.4359,
+    "n_flagged": 1099
+   }
+  ],
+  "mean_rel_gain": 19.242814217728817,
+  "mean_rel_gain_sd": 0.937150159830578,
+  "mean_exit_share": 0.4818016378525933,
+  "unit": "per 100,000 (sign reversed: fall)"
+ },
+ "Daycare (K4)": {
+  "pairs": [
+   {
+    "t0": 2016,
+    "t1": 2017,
+    "rel_gain": 0.6651,
+    "rel_gain_sd": 0.0467,
+    "exit_share": 0.2576,
+    "n_flagged": 1114
+   },
+   {
+    "t0": 2017,
+    "t1": 2018,
+    "rel_gain": 0.6907,
+    "rel_gain_sd": 0.0475,
+    "exit_share": 0.2415,
+    "n_flagged": 1114
+   },
+   {
+    "t0": 2018,
+    "t1": 2019,
+    "rel_gain": 0.1221,
+    "rel_gain_sd": 0.0082,
+    "exit_share": 0.1741,
+    "n_flagged": 1114
+   },
+   {
+    "t0": 2019,
+    "t1": 2020,
+    "rel_gain": 1.1979,
+    "rel_gain_sd": 0.0773,
+    "exit_share": 0.1346,
+    "n_flagged": 1114
+   },
+   {
+    "t0": 2020,
+    "t1": 2021,
+    "rel_gain": 1.7717,
+    "rel_gain_sd": 0.1158,
+    "exit_share": 0.2002,
+    "n_flagged": 1114
+   },
+   {
+    "t0": 2021,
+    "t1": 2022,
+    "rel_gain": 2.4795,
+    "rel_gain_sd": 0.158,
+    "exit_share": 0.4596,
+    "n_flagged": 1114
+   },
+   {
+    "t0": 2022,
+    "t1": 2023,
+    "rel_gain": 0.7243,
+    "rel_gain_sd": 0.0479,
+    "exit_share": 0.3474,
+    "n_flagged": 1114
+   },
+   {
+    "t0": 2023,
+    "t1": 2024,
+    "rel_gain": 1.586,
+    "rel_gain_sd": 0.1024,
+    "exit_share": 0.1239,
+    "n_flagged": 1114
+   },
+   {
+    "t0": 2024,
+    "t1": 2025,
+    "rel_gain": 1.5366,
+    "rel_gain_sd": 0.1016,
+    "exit_share": 0.1409,
+    "n_flagged": 1114
+   }
+  ],
+  "mean_rel_gain": 1.1970987975401133,
+  "mean_rel_gain_sd": 0.07839068569092596,
+  "mean_exit_share": 0.23109914223020148,
+  "unit": "natural units"
+ },
+ "Formal jobs (K1)": {
+  "pairs": [
+   {
+    "t0": 2015,
+    "t1": 2016,
+    "rel_gain": 0.0778,
+    "rel_gain_sd": 0.058,
+    "exit_share": 0.0655,
+    "n_flagged": 1114
+   },
+   {
+    "t0": 2016,
+    "t1": 2017,
+    "rel_gain": 0.0481,
+    "rel_gain_sd": 0.0364,
+    "exit_share": 0.0727,
+    "n_flagged": 1114
+   },
+   {
+    "t0": 2017,
+    "t1": 2018,
+    "rel_gain": 0.0442,
+    "rel_gain_sd": 0.0335,
+    "exit_share": 0.0835,
+    "n_flagged": 1114
+   },
+   {
+    "t0": 2018,
+    "t1": 2019,
+    "rel_gain": 0.0206,
+    "rel_gain_sd": 0.0156,
+    "exit_share": 0.0682,
+    "n_flagged": 1114
+   },
+   {
+    "t0": 2019,
+    "t1": 2020,
+    "rel_gain": 0.0296,
+    "rel_gain_sd": 0.0223,
+    "exit_share": 0.0664,
+    "n_flagged": 1114
+   },
+   {
+    "t0": 2020,
+    "t1": 2021,
+    "rel_gain": 0.0736,
+    "rel_gain_sd": 0.0557,
+    "exit_share": 0.1373,
+    "n_flagged": 1114
+   },
+   {
+    "t0": 2021,
+    "t1": 2022,
+    "rel_gain": 0.1443,
+    "rel_gain_sd": 0.1109,
+    "exit_share": 0.2056,
+    "n_flagged": 1114
+   },
+   {
+    "t0": 2022,
+    "t1": 2023,
+    "rel_gain": 0.0628,
+    "rel_gain_sd": 0.0503,
+    "exit_share": 0.0844,
+    "n_flagged": 1114
+   },
+   {
+    "t0": 2023,
+    "t1": 2024,
+    "rel_gain": 0.0301,
+    "rel_gain_sd": 0.0245,
+    "exit_share": 0.0673,
+    "n_flagged": 1114
+   }
+  ],
+  "mean_rel_gain": 0.0590017601876793,
+  "mean_rel_gain_sd": 0.04524349408463462,
+  "mean_exit_share": 0.0945541591861161,
+  "unit": "log points"
+ }
+}

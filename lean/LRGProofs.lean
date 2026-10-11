@@ -1,0 +1,12 @@
+import LRGProofs.Basic
+import LRGProofs.Effort
+import LRGProofs.Quadratic
+import LRGProofs.Cosmetic
+import LRGProofs.ContractTheory
+import LRGProofs.Sanctions
+import LRGProofs.Information
+import LRGProofs.Money
+import LRGProofs.Parties
+import LRGProofs.Clientelism
+import LRGProofs.Implementation
+import LRGProofs.Axioms

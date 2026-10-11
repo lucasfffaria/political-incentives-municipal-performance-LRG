@@ -1,0 +1,62 @@
+{
+ "n_plans": 12663,
+ "value_bn": 8.15456836161,
+ "paid_bn": 6.43453890156,
+ "n_municipalities": 4302,
+ "n_authors": 493,
+ "share_impeded": 0.21092832677049328,
+ "area_shares": {
+  "Urbanismo": 0.4039,
+  "Agricultura": 0.1222,
+  "Sa\u00fade": 0.1103,
+  "Desporto e Lazer": 0.0741,
+  "Com\u00e9rcio e Servi\u00e7os": 0.0548,
+  "Assist\u00eancia Social": 0.0535,
+  "Educa\u00e7\u00e3o": 0.0433,
+  "Not reported": 0.0271,
+  "Saneamento": 0.0212,
+  "Cultura": 0.019,
+  "Seguran\u00e7a P\u00fablica": 0.0173,
+  "Gest\u00e3o Ambiental": 0.0172,
+  "Transporte": 0.0143,
+  "Habita\u00e7\u00e3o": 0.009,
+  "Ind\u00fastria": 0.0031,
+  "Energia": 0.0026,
+  "Ci\u00eancia e Tecnologia": 0.0024,
+  "Trabalho": 0.0021,
+  "Direitos da Cidadania": 0.0014,
+  "Organiza\u00e7\u00e3o Agr\u00e1ria": 0.0012
+ },
+ "per_capita_by_size": {
+  "<5k": 217.6,
+  "5-10k": 137.0,
+  "10-20k": 96.3,
+  "20-50k": 62.5,
+  "50-100k": 33.0,
+  ">100k": 10.9
+ },
+ "per_capita_by_region": {
+  "CO": 35.6,
+  "N": 82.1,
+  "NE": 51.4,
+  "S": 42.1,
+  "SE": 20.0
+ },
+ "share_munis_zero": 0.22764811490125672,
+ "corr_with_bolsa_familia_share": 0.10076961575299101,
+ "corr_with_sewer_share": -0.19893557470433085,
+ "corr_with_literacy": -0.0037818742073241728,
+ "corr_with_log_gdp_pc": -0.11685429539521988,
+ "corr_with_bf_within_size": 0.09849132426730255,
+ "alignment": {
+  "value_weighted_obs": 0.3155083179252424,
+  "value_weighted_exp_pop": 0.1432066798362188,
+  "value_weighted_exp_cnt": 0.13800887332390666,
+  "n_deputies": 396,
+  "ratio_obs_to_exp_cnt": 2.2861451610052983
+ },
+ "author_concentration": {
+  "median_munis": 14.0,
+  "median_top1_share": 0.2036760825894719
+ }
+}

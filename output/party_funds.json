@@ -1,0 +1,86 @@
+{
+ "shares": {
+  "big6": {
+   "fp_now": 0.5670207384926657,
+   "fp_lrg": 0.7536523425584519,
+   "fefc_now": 0.6084785509238669,
+   "fefc_lrg": 0.6810654467411594,
+   "mayors": 0.7282060518731989,
+   "seats": 0.6335282651072125
+  },
+  "centrao": {
+   "fp_now": 0.6839656044511887,
+   "fp_lrg": 0.8325747015815905,
+   "fefc_now": 0.7068087170986135,
+   "fefc_lrg": 0.7696917093401021,
+   "mayors": 0.8065561959654178,
+   "seats": 0.7095516569200779
+  },
+  "left": {
+   "fp_now": 0.27061203844208404,
+   "fp_lrg": 0.11185654166392728,
+   "fefc_now": 0.2436218816965188,
+   "fefc_lrg": 0.17773921168022302,
+   "mayors": 0.13526657060518732,
+   "seats": 0.24951267056530213
+  }
+ },
+ "top_city_weight": {
+  "sao_paulo_share_of_fp": 0.056923415579501,
+  "capitals_share": 0.2210436795188549,
+  "n_munis_for_half_fund": 204,
+  "n_governed": 5552,
+  "share_of_munis_for_half_fund": 0.03674351585014409
+ },
+ "chamber": {
+  "seats_parties_gaining": 225,
+  "seats_parties_losing": 288,
+  "parties_gaining": [
+   "UNIAO",
+   "PSD",
+   "PP",
+   "MDB",
+   "PSB",
+   "PSDB",
+   "AVANTE",
+   "DC",
+   "MOBILIZA",
+   "NOVO",
+   "PMB"
+  ],
+  "parties_losing": [
+   "PL",
+   "PT",
+   "REPUBLICANOS",
+   "PODEMOS",
+   "PDT",
+   "PSOL",
+   "PRD",
+   "SOLIDARIEDADE",
+   "PCDOB",
+   "CIDADANIA",
+   "REDE",
+   "PV"
+  ]
+ },
+ "hhi": {
+  "fp_now": 0.08670878481392874,
+  "fp_lrg": 0.11269418644751372
+ },
+ "new_party": {
+  "vote_share": 0.03,
+  "deputies": 15,
+  "fp_now_mn": 38.09899999999999,
+  "fp_lrg_mn": 0.0,
+  "fefc_now_mn": 125.1147247428917,
+  "fefc_lrg_mn": 62.55736237144585,
+  "mayors_needed_for_same_fp": 561.1290748317276,
+  "note": "Under current rules only parties above the art. 17 \u00a73 threshold receive the FP: 2.5% of valid votes (or 13 deputies) in 2026 and 3% (or 15 deputies) from 2030; the party is assumed to pass it."
+ },
+ "switching": {
+  "reelected_2024": 2244,
+  "switched_label_2020_2024": 0.4910873440285205,
+  "open_seats_same_party": 0.2356120826709062,
+  "fp_per_mn_inhabitants_lrg": 5781250.918755549
+ }
+}

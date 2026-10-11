@@ -1,0 +1,40 @@
+{
+ "links": {
+  "P_score->C_voters": "weak",
+  "P_score->C_effort": "weak",
+  "P_sanc->C_effort": "weak",
+  "P_sanc->C_select": "contrary",
+  "P_fpm->C_effort": "weak",
+  "P_amend->C_effort": "strong",
+  "P_amend->C_fuel": "strong",
+  "P_cap->C_effort": "partial",
+  "P_party->C_select": "weak",
+  "C_effort->R_serv": "partial",
+  "C_select->R_serv": "weak",
+  "C_voters->R_serv": "weak",
+  "C_effort->R_econ": "partial",
+  "R_serv->R_econ": "weak",
+  "R_econ->R_dep": "weak",
+  "C_fuel->R_brasilia": "partial",
+  "R_dep->R_brasilia": "weak"
+ },
+ "reasons": {
+  "P_score->C_voters": "voters reward measured performance by 1.2-3.9 points of re-election per SD (2024, 2020); routine performance information has no average electoral effect (Dunning et al., 2019)",
+  "P_score->C_effort": "publishing the scorecard alone: +0.003 SD",
+  "P_sanc->C_effort": "sanctions: 12% of the real effect, 62% of the cosmetic gap",
+  "P_sanc->C_select": "1.5% of bans attributable to the mayor; competence effect of sanctions -0.045 SD",
+  "P_fpm->C_effort": "FPM tranche: 24% of the average effect, 7% of the population-weighted one; points-truth correlation 0.66",
+  "P_amend->C_effort": "tied amendments: 39% of the effect",
+  "P_amend->C_fuel": "discretionary money x0.43; incumbents' re-election -5.7 pp",
+  "P_cap->C_effort": "commissioners: 18% of the effect",
+  "P_party->C_select": "population-weighted competence +0.091 SD, resting on the recruitment assumption (Sobol 0.66); six largest parties' share of the FP +16.0 pp",
+  "C_effort->R_serv": "average effect +0.196 SD",
+  "C_select->R_serv": "the mayor-term component is at most 3.3% of the variance (Table 5)",
+  "C_voters->R_serv": "the joint effect of continuity and lost eligibility in the close 2020 races is small (daycare +0.09, jobs +0.03 SD, lame minus first-term); the electoral incentive on learning is bounded between -0.28 and 0.99 SD, not identified",
+  "C_effort->R_econ": "largest effect on the economic indicators 0.022 SD",
+  "R_serv->R_econ": "no measurable effect within the horizon",
+  "R_econ->R_dep": "vulnerability +0.02 pp",
+  "C_fuel->R_brasilia": "tied amendments alone: centrao vote -1.1 pp [-2.2, -0.4]",
+  "R_dep->R_brasilia": "dependence barely changes"
+ }
+}

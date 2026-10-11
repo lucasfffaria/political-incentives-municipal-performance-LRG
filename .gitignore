@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Figures written by the figure scripts of code/
+figures/
+
+# Official TSE vote files (about 14 GB), not used by the study
+TSE_raw_data/
+
+# Operating-system files and Word lock files
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*

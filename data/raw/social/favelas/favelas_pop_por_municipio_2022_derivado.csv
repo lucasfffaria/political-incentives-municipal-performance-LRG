@@ -1,0 +1,657 @@
+cod_ibge,nm_mun,nm_uf,n_fcu,pop_fcu_setores,pop_fcu_total_pessoas,dp_ocupados_fcu
+1100049,Cacoal,Rondônia,2,543,543,199
+1100106,Guajará-Mirim,Rondônia,4,2943,2942,843
+1100205,Porto Velho,Rondônia,68,79806,79767,25019
+1200104,Brasiléia,Acre,10,3854,3822,1284
+1200203,Cruzeiro do Sul,Acre,16,14687,14687,4132
+1200252,Epitaciolândia,Acre,6,2069,2069,730
+1200401,Rio Branco,Acre,47,48126,48096,16397
+1300060,Amaturá,Amazonas,2,2389,2386,533
+1300102,Anori,Amazonas,3,4522,4509,1146
+1300409,Barcelos,Amazonas,3,1738,1733,413
+1300508,Barreirinha,Amazonas,1,2701,2693,592
+1300607,Benjamin Constant,Amazonas,3,5642,5625,1191
+1300680,Boa Vista do Ramos,Amazonas,2,1932,1932,408
+1300706,Boca do Acre,Amazonas,4,4648,4638,1282
+1301001,Carauari,Amazonas,2,3914,3897,966
+1301209,Coari,Amazonas,10,25047,25014,6107
+1301308,Codajás,Amazonas,5,3426,3426,784
+1301407,Eirunepé,Amazonas,4,6279,6279,1470
+1301506,Envira,Amazonas,1,1842,1839,442
+1301654,Guajará,Amazonas,1,373,373,85
+1301803,Ipixuna,Amazonas,3,4447,4442,902
+1301852,Iranduba,Amazonas,11,18684,18674,5042
+1301902,Itacoatiara,Amazonas,17,25932,25915,6740
+1302405,Lábrea,Amazonas,7,7344,7325,1822
+1302504,Manacapuru,Amazonas,14,21581,21507,5432
+1302603,Manaus,Amazonas,236,1151808,1150487,339795
+1302900,Maués,Amazonas,1,807,807,161
+1303205,Novo Airão,Amazonas,2,318,318,87
+1303403,Parintins,Amazonas,16,19079,19004,4583
+1303536,Presidente Figueiredo,Amazonas,6,6801,6801,2073
+1303569,Rio Preto da Eva,Amazonas,5,3942,3942,1180
+1303700,Santo Antônio do Içá,Amazonas,6,11184,11164,2155
+1304062,Tabatinga,Amazonas,10,4981,4826,1063
+1304203,Tefé,Amazonas,11,19237,19229,4324
+1304237,Tonantins,Amazonas,2,4374,4361,833
+1304302,Urucará,Amazonas,1,315,315,56
+1304401,Urucurituba,Amazonas,3,2791,2759,615
+1400100,Boa Vista,Roraima,10,16009,15843,4410
+1500107,Abaetetuba,Pará,2,5220,5216,1382
+1500206,Acará,Pará,8,7275,7202,2142
+1500305,Afuá,Pará,1,8021,8014,1902
+1500503,Almeirim,Pará,2,5073,5050,1207
+1500602,Altamira,Pará,6,5097,5096,1601
+1500800,Ananindeua,Pará,124,288073,287798,91704
+1501105,Bagre,Pará,1,1755,1751,362
+1501303,Barcarena,Pará,6,6372,6344,1911
+1501402,Belém,Pará,214,745140,744355,235157
+1501501,Benevides,Pará,27,18942,18930,6111
+1501709,Bragança,Pará,13,7976,7957,2305
+1501782,Breu Branco,Pará,6,12923,12922,3954
+1501808,Breves,Pará,5,7242,7227,1725
+1502103,Cametá,Pará,11,13297,13289,3611
+1502202,Capanema,Pará,15,9317,9302,2930
+1502400,Castanhal,Pará,22,18159,18157,5769
+1502939,Dom Eliseu,Pará,1,1449,1449,410
+1503309,Igarapé-Miri,Pará,2,2624,2624,726
+1503457,Ipixuna do Pará,Pará,1,812,806,242
+1503606,Itaituba,Pará,3,2565,2565,704
+1503705,Itupiranga,Pará,2,599,599,193
+1503804,Jacundá,Pará,8,3198,3189,983
+1504208,Marabá,Pará,21,64902,64874,19822
+1504422,Marituba,Pará,48,65599,65466,20814
+1504505,Melgaço,Pará,1,529,529,117
+1504703,Moju,Pará,3,1211,1211,369
+1504802,Monte Alegre,Pará,9,5606,5600,1646
+1505106,Óbidos,Pará,1,529,529,160
+1505304,Oriximiná,Pará,1,752,752,184
+1505502,Paragominas,Pará,14,12837,12823,3806
+1505536,Parauapebas,Pará,21,26664,26663,8398
+1506005,Prainha,Pará,1,1055,1054,265
+1506138,Redenção,Pará,10,10501,10481,3368
+1506351,Santa Bárbara do Pará,Pará,5,1910,1910,595
+1506500,Santa Izabel do Pará,Pará,15,13468,13393,4227
+1506807,Santarém,Pará,39,88479,88463,25057
+1507003,Santo Antônio do Tauá,Pará,4,1293,1269,449
+1507300,São Félix do Xingu,Pará,1,545,545,172
+1507607,São Miguel do Guamá,Pará,11,8395,8389,2586
+1508001,Tomé-Açu,Pará,10,16751,16720,4984
+1508100,Tucuruí,Pará,21,23267,22811,6565
+1508209,Vigia,Pará,5,7496,7496,2255
+1508308,Viseu,Pará,2,593,593,160
+1600105,Amapá,Amapá,1,312,307,72
+1600212,Cutias,Amapá,1,777,777,209
+1600279,Laranjal do Jari,Amapá,6,10806,10788,3194
+1600303,Macapá,Amapá,83,127650,127541,33201
+1600600,Santana,Amapá,25,31899,31886,8040
+1600808,Vitória do Jari,Amapá,5,7819,7780,2092
+1702109,Araguaína,Tocantins,12,9679,9663,3085
+1709005,Goiatins,Tocantins,1,282,282,86
+1709500,Gurupi,Tocantins,2,1152,1152,385
+1716505,Pedro Afonso,Tocantins,1,600,586,193
+1721000,Palmas,Tocantins,22,29944,29837,9491
+1722107,Xambioá,Tocantins,1,664,664,202
+2100055,Açailândia,Maranhão,2,1609,1609,520
+2102325,Buriticupu,Maranhão,1,506,506,145
+2103000,Caxias,Maranhão,3,4094,4094,1199
+2105302,Imperatriz,Maranhão,7,8973,8973,2899
+2105401,Itapecuru Mirim,Maranhão,2,577,577,163
+2107506,Paço do Lumiar,Maranhão,32,41423,41299,13334
+2108603,Pinheiro,Maranhão,1,453,453,136
+2109452,Raposa,Maranhão,12,11433,11418,3542
+2109908,Santa Inês,Maranhão,2,775,775,252
+2111201,São José de Ribamar,Maranhão,30,72444,72380,23128
+2111300,São Luís,Maranhão,100,358805,358374,116485
+2112209,Timon,Maranhão,2,1470,1470,457
+2112506,Tutóia,Maranhão,2,608,608,154
+2114007,Zé Doca,Maranhão,2,570,570,175
+2207702,Parnaíba,Piauí,1,456,456,144
+2208007,Picos,Piauí,2,399,399,122
+2211001,Teresina,Piauí,170,198189,198011,60892
+2300200,Acaraú,Ceará,3,824,824,248
+2301000,Aquiraz,Ceará,6,1185,1185,383
+2301109,Aracati,Ceará,7,2809,2802,958
+2301901,Barbalha,Ceará,7,9839,9832,3146
+2302800,Canindé,Ceará,6,8694,8693,2908
+2303204,Caririaçu,Ceará,1,600,600,188
+2303709,Caucaia,Ceará,52,60643,60638,19685
+2304103,Crateús,Ceará,2,500,493,177
+2304202,Crato,Ceará,18,16925,16922,5688
+2304285,Eusébio,Ceará,6,3143,3143,981
+2304400,Fortaleza,Ceará,503,578071,577437,197158
+2304707,Granja,Ceará,1,275,275,90
+2304954,Guaiúba,Ceará,3,1732,1732,536
+2305803,Ipu,Ceará,2,902,902,263
+2305902,Ipueiras,Ceará,2,380,380,121
+2306256,Itaitinga,Ceará,1,232,232,76
+2306405,Itapipoca,Ceará,14,14736,14725,4678
+2307304,Juazeiro do Norte,Ceará,6,7806,7806,2545
+2307601,Limoeiro do Norte,Ceará,4,1941,1941,691
+2307650,Maracanaú,Ceará,16,8562,8562,2828
+2307700,Maranguape,Ceará,14,10940,10940,3581
+2308708,Morada Nova,Ceará,2,1333,1333,453
+2309607,Pacajus,Ceará,4,2349,2349,783
+2309706,Pacatuba,Ceará,5,1283,1283,426
+2310704,Pentecoste,Ceará,4,3877,3872,1231
+2311306,Quixadá,Ceará,2,802,802,244
+2312403,São Gonçalo do Amarante,Ceará,1,433,433,135
+2312908,Sobral,Ceará,7,4864,4864,1637
+2313401,Tianguá,Ceará,1,929,929,266
+2313500,Trairi,Ceará,2,3028,3024,895
+2403251,Parnamirim,Rio Grande do Norte,6,6174,6174,2050
+2403608,Extremoz,Rio Grande do Norte,1,681,681,228
+2408003,Mossoró,Rio Grande do Norte,12,13633,13610,4586
+2408102,Natal,Rio Grande do Norte,73,146017,145374,50350
+2412005,São Gonçalo do Amarante,Rio Grande do Norte,9,8736,8731,2912
+2501807,Bayeux,Paraíba,23,16063,16045,5406
+2503209,Cabedelo,Paraíba,25,22984,22907,7516
+2503704,Cajazeiras,Paraíba,8,4403,4403,1480
+2504009,Campina Grande,Paraíba,23,27311,27300,9189
+2504603,Conde,Paraíba,7,2780,2774,837
+2504900,Cruz do Espírito Santo,Paraíba,6,1725,1725,542
+2507507,João Pessoa,Paraíba,157,109992,109586,37748
+2507903,Juripiranga,Paraíba,1,411,411,133
+2508604,Lucena,Paraíba,4,2458,2458,754
+2510808,Patos,Paraíba,7,3578,3482,1356
+2513703,Santa Rita,Paraíba,11,14360,14358,4573
+2516201,Sousa,Paraíba,10,4190,4168,1302
+2600054,Abreu e Lima,Pernambuco,14,13847,13834,4966
+2601052,Araçoiaba,Pernambuco,5,7078,7071,2186
+2601201,Arcoverde,Pernambuco,4,2324,2316,762
+2601706,Belo Jardim,Pernambuco,6,1440,1440,489
+2601904,Bezerros,Pernambuco,4,3823,3821,1382
+2602902,Cabo de Santo Agostinho,Pernambuco,59,92321,92049,32784
+2603454,Camaragibe,Pernambuco,24,20264,20246,7255
+2603603,Camutanga,Pernambuco,1,816,816,251
+2604007,Carpina,Pernambuco,3,1238,1236,424
+2604106,Caruaru,Pernambuco,33,23030,23025,8298
+2605202,Escada,Pernambuco,11,6707,6707,2354
+2606002,Garanhuns,Pernambuco,2,829,829,249
+2606200,Goiana,Pernambuco,8,5277,5270,1702
+2606408,Gravatá,Pernambuco,6,2768,2768,993
+2606804,Igarassu,Pernambuco,25,18998,18931,6524
+2607208,Ipojuca,Pernambuco,12,12506,12399,4097
+2607604,Ilha de Itamaracá,Pernambuco,10,6189,6189,2175
+2607752,Itapissuma,Pernambuco,2,933,933,317
+2607901,Jaboatão dos Guararapes,Pernambuco,132,288109,287738,103424
+2608909,Limoeiro,Pernambuco,5,2601,2601,961
+2609402,Moreno,Pernambuco,20,14799,14797,5153
+2609600,Olinda,Pernambuco,66,101370,101139,36173
+2610004,Palmares,Pernambuco,5,4620,4620,1536
+2610608,Paudalho,Pernambuco,14,11756,11715,3893
+2610707,Paulista,Pernambuco,41,57022,56851,20135
+2611101,Petrolina,Pernambuco,13,6502,6490,2091
+2611606,Recife,Pernambuco,295,361548,360804,129578
+2612505,Santa Cruz do Capibaribe,Pernambuco,7,2402,2370,792
+2613701,São Lourenço da Mata,Pernambuco,9,9542,9539,3342
+2613800,São Vicente Férrer,Pernambuco,1,823,822,257
+2615300,Timbaúba,Pernambuco,3,5716,5716,2088
+2615409,Toritama,Pernambuco,3,1402,1402,469
+2616407,Vitória de Santo Antão,Pernambuco,6,2565,2563,887
+2700300,Arapiraca,Alagoas,9,4458,4330,1465
+2700508,Barra de Santo Antônio,Alagoas,7,2531,2520,780
+2702306,Coruripe,Alagoas,1,390,390,135
+2702405,Delmiro Gouveia,Alagoas,1,0,0,0
+2703601,Japaratinga,Alagoas,2,814,810,249
+2704302,Maceió,Alagoas,192,151593,151301,51947
+2704500,Maragogi,Alagoas,6,3434,3426,980
+2704708,Marechal Deodoro,Alagoas,5,1882,1882,581
+2705101,Matriz de Camaragibe,Alagoas,1,355,354,87
+2706307,Palmeira dos Índios,Alagoas,2,312,312,104
+2706448,Paripueira,Alagoas,1,514,514,164
+2706703,Penedo,Alagoas,3,1185,1185,395
+2707305,Porto Calvo,Alagoas,1,249,249,78
+2707404,Porto de Pedras,Alagoas,3,956,956,296
+2707701,Rio Largo,Alagoas,8,4127,4121,1398
+2708501,São Luís do Quitunde,Alagoas,8,4562,4562,1367
+2708709,São Miguel dos Milagres,Alagoas,1,224,224,71
+2800308,Aracaju,Sergipe,95,103137,102949,35900
+2800605,Barra dos Coqueiros,Sergipe,5,3933,3926,1314
+2801504,Carmópolis,Sergipe,1,389,389,137
+2802106,Estância,Sergipe,7,2177,2177,747
+2803609,Laranjeiras,Sergipe,8,2438,2438,812
+2804003,Maruim,Sergipe,3,1303,1303,402
+2804409,Neópolis,Sergipe,1,199,199,78
+2804805,Nossa Senhora do Socorro,Sergipe,44,35632,35526,12510
+2805901,Riachuelo,Sergipe,3,625,625,184
+2806107,Rosário do Catete,Sergipe,3,607,607,214
+2806602,Santo Amaro das Brotas,Sergipe,1,107,80,19
+2806701,São Cristóvão,Sergipe,14,10396,10348,3562
+2902104,Araci,Bahia,2,318,318,108
+2903201,Barreiras,Bahia,9,9408,9394,2974
+2905701,Camaçari,Bahia,47,54526,54370,19304
+2906006,Campo Formoso,Bahia,1,699,699,222
+2906501,Candeias,Bahia,9,14242,14237,5138
+2907202,Casa Nova,Bahia,2,1834,1834,554
+2907509,Catu,Bahia,2,1000,998,383
+2910727,Eunápolis,Bahia,23,14782,14770,5380
+2910800,Feira de Santana,Bahia,49,44699,44576,15558
+2913606,Ilhéus,Bahia,22,64364,64284,23331
+2914703,Itaberaba,Bahia,4,5110,5110,1848
+2914802,Itabuna,Bahia,34,23610,23509,8979
+2915601,Itamaraju,Bahia,2,1062,1062,395
+2916104,Itaparica,Bahia,3,3444,3439,1248
+2917508,Jacobina,Bahia,6,6256,6252,2298
+2918001,Jequié,Bahia,14,8888,8882,3163
+2919207,Lauro de Freitas,Bahia,35,42079,42050,15298
+2919926,Madre de Deus,Bahia,1,736,694,281
+2925303,Porto Seguro,Bahia,1,753,752,273
+2927408,Salvador,Bahia,262,1033188,1032195,404597
+2928604,Santo Amaro,Bahia,4,1927,1916,723
+2928703,Santo Antônio de Jesus,Bahia,9,5906,5906,2207
+2929206,São Francisco do Conde,Bahia,1,5908,5902,2204
+2930709,Simões Filho,Bahia,12,7940,7880,2875
+2931350,Teixeira de Freitas,Bahia,4,2678,2674,941
+2931905,Tucano,Bahia,1,333,333,106
+2932903,Valença,Bahia,5,6454,6451,2518
+2933208,Vera Cruz,Bahia,8,7988,7984,3032
+3101508,Além Paraíba,Minas Gerais,8,7246,7242,2666
+3101706,Almenara,Minas Gerais,1,320,320,101
+3105202,Bandeira,Minas Gerais,1,464,464,185
+3105608,Barbacena,Minas Gerais,4,2451,2450,877
+3106200,Belo Horizonte,Minas Gerais,218,307729,307423,106884
+3106309,Belo Oriente,Minas Gerais,1,1971,1971,627
+3106705,Betim,Minas Gerais,33,54009,53918,18880
+3107802,Bom Jesus do Galho,Minas Gerais,2,1955,1955,719
+3117306,Conceição das Alagoas,Minas Gerais,1,600,600,190
+3118304,Conselheiro Lafaiete,Minas Gerais,2,281,281,105
+3118601,Contagem,Minas Gerais,49,46791,46755,16248
+3119401,Coronel Fabriciano,Minas Gerais,20,21313,21283,7605
+3120904,Curvelo,Minas Gerais,1,243,243,84
+3121258,Delta,Minas Gerais,2,821,813,256
+3121605,Diamantina,Minas Gerais,5,7612,7559,2508
+3122306,Divinópolis,Minas Gerais,4,2133,2133,832
+3124104,Esmeraldas,Minas Gerais,8,5235,5234,1784
+3124609,Estrela Dalva,Minas Gerais,1,137,137,52
+3127701,Governador Valadares,Minas Gerais,10,15939,15932,5834
+3129806,Ibirité,Minas Gerais,24,29426,29415,9837
+3130101,Igarapé,Minas Gerais,4,1544,1544,548
+3131307,Ipatinga,Minas Gerais,19,26718,26709,9533
+3131703,Itabira,Minas Gerais,3,3355,3355,1108
+3131901,Itabirito,Minas Gerais,2,1910,1909,656
+3132404,Itajubá,Minas Gerais,2,953,953,286
+3132701,Itambacuri,Minas Gerais,1,537,537,177
+3133709,Itatiaiuçu,Minas Gerais,1,0,0,0
+3133808,Itaúna,Minas Gerais,1,394,394,145
+3135050,Jaíba,Minas Gerais,1,1009,1009,320
+3135209,Januária,Minas Gerais,3,565,565,152
+3136652,Juatuba,Minas Gerais,1,268,265,96
+3136702,Juiz de Fora,Minas Gerais,37,16728,16712,5869
+3140001,Mariana,Minas Gerais,2,5505,5500,1902
+3140803,Matias Barbosa,Minas Gerais,1,231,231,81
+3141108,Matozinhos,Minas Gerais,2,439,439,146
+3143302,Montes Claros,Minas Gerais,27,18078,18075,6025
+3144805,Nova Lima,Minas Gerais,13,7244,7229,2494
+3147907,Passos,Minas Gerais,1,1521,1521,521
+3148707,Pedra Azul,Minas Gerais,1,581,581,192
+3149309,Pedro Leopoldo,Minas Gerais,5,2245,2245,731
+3151107,Pirapetinga,Minas Gerais,1,443,443,175
+3151909,Pocrane,Minas Gerais,1,158,158,57
+3152204,Porteirinha,Minas Gerais,3,1310,1310,487
+3152808,Prata,Minas Gerais,1,513,508,181
+3154606,Ribeirão das Neves,Minas Gerais,37,33034,33009,11245
+3154804,Rio Acima,Minas Gerais,2,350,350,129
+3156700,Sabará,Minas Gerais,6,7131,7131,2343
+3157807,Santa Luzia,Minas Gerais,15,24046,24040,7730
+3159605,Santa Rita do Sapucaí,Minas Gerais,1,249,248,82
+3162922,São Joaquim de Bicas,Minas Gerais,3,1106,634,243
+3162955,São José da Lapa,Minas Gerais,1,816,815,264
+3165537,Sarzedo,Minas Gerais,1,273,273,83
+3167202,Sete Lagoas,Minas Gerais,1,312,265,92
+3168606,Teófilo Otoni,Minas Gerais,9,7916,7912,2657
+3168705,Timóteo,Minas Gerais,6,9648,9644,3446
+3170107,Uberaba,Minas Gerais,10,4089,4085,1509
+3170206,Uberlândia,Minas Gerais,24,32033,31985,10800
+3171204,Vespasiano,Minas Gerais,8,19312,19308,6544
+3171303,Viçosa,Minas Gerais,1,597,597,195
+3200102,Afonso Cláudio,Espírito Santo,4,1850,1850,696
+3200169,Água Doce do Norte,Espírito Santo,1,217,217,82
+3200201,Alegre,Espírito Santo,4,1673,1673,610
+3200359,Alto Rio Novo,Espírito Santo,2,654,654,251
+3200409,Anchieta,Espírito Santo,2,1476,1476,509
+3200607,Aracruz,Espírito Santo,7,4600,4597,1531
+3200706,Atílio Vivácqua,Espírito Santo,3,1292,1289,458
+3200805,Baixo Guandu,Espírito Santo,4,4759,4759,1636
+3200904,Barra de São Francisco,Espírito Santo,13,10762,10762,4064
+3201100,Bom Jesus do Norte,Espírito Santo,3,2220,2220,858
+3201209,Cachoeiro de Itapemirim,Espírito Santo,38,37019,37018,13875
+3201308,Cariacica,Espírito Santo,79,96413,96317,34334
+3201407,Castelo,Espírito Santo,1,370,370,141
+3201506,Colatina,Espírito Santo,27,25612,25582,9840
+3201605,Conceição da Barra,Espírito Santo,7,2819,2816,971
+3201704,Conceição do Castelo,Espírito Santo,1,541,541,202
+3202108,Ecoporanga,Espírito Santo,6,3249,3242,1271
+3202207,Fundão,Espírito Santo,5,3026,3001,1073
+3202306,Guaçuí,Espírito Santo,3,1483,1482,532
+3202405,Guarapari,Espírito Santo,23,31171,31158,10892
+3202454,Ibatiba,Espírito Santo,2,791,791,280
+3202702,Itaguaçu,Espírito Santo,1,842,842,327
+3202801,Itapemirim,Espírito Santo,4,3883,3879,1318
+3203007,Iúna,Espírito Santo,1,2037,2037,745
+3203056,Jaguaré,Espírito Santo,3,1689,1689,600
+3203130,João Neiva,Espírito Santo,1,180,180,55
+3203205,Linhares,Espírito Santo,17,14455,14446,4940
+3203320,Marataízes,Espírito Santo,7,8568,8565,3033
+3203346,Marechal Floriano,Espírito Santo,1,311,311,116
+3203502,Montanha,Espírito Santo,1,118,118,38
+3203809,Muqui,Espírito Santo,2,169,169,62
+3203908,Nova Venécia,Espírito Santo,5,2064,2064,766
+3204005,Pancas,Espírito Santo,6,3123,3123,1177
+3204054,Pedro Canário,Espírito Santo,1,55,55,21
+3204104,Pinheiros,Espírito Santo,2,1548,1547,529
+3204203,Piúma,Espírito Santo,5,2282,2282,837
+3204401,Rio Novo do Sul,Espírito Santo,2,1749,1749,648
+3204559,Santa Maria de Jetibá,Espírito Santo,1,159,159,68
+3204609,Santa Teresa,Espírito Santo,1,635,635,234
+3204658,São Domingos do Norte,Espírito Santo,2,833,833,316
+3204708,São Gabriel da Palha,Espírito Santo,1,259,259,97
+3204807,São José do Calçado,Espírito Santo,2,927,927,377
+3204906,São Mateus,Espírito Santo,28,23258,23234,8475
+3204955,São Roque do Canaã,Espírito Santo,2,910,907,347
+3205002,Serra,Espírito Santo,68,113048,112921,40482
+3205101,Viana,Espírito Santo,12,18398,18381,6496
+3205176,Vila Valério,Espírito Santo,1,176,176,65
+3205200,Vila Velha,Espírito Santo,61,91847,91764,32636
+3205309,Vitória,Espírito Santo,43,72857,72788,27046
+3300100,Angra dos Reis,Rio de Janeiro,55,71373,71316,26077
+3300209,Araruama,Rio de Janeiro,37,22661,22638,8026
+3300233,Armação dos Búzios,Rio de Janeiro,4,1538,1538,522
+3300258,Arraial do Cabo,Rio de Janeiro,9,10476,10476,3801
+3300308,Barra do Piraí,Rio de Janeiro,4,2965,2965,1083
+3300407,Barra Mansa,Rio de Janeiro,20,7052,7052,2521
+3300456,Belford Roxo,Rio de Janeiro,50,46851,46826,17388
+3300704,Cabo Frio,Rio de Janeiro,42,46474,46449,16121
+3300803,Cachoeiras de Macacu,Rio de Janeiro,3,3719,3719,1430
+3301009,Campos dos Goytacazes,Rio de Janeiro,30,13589,13577,4659
+3301157,Cardoso Moreira,Rio de Janeiro,1,163,163,66
+3301306,Casimiro de Abreu,Rio de Janeiro,2,4844,4842,1650
+3301405,Conceição de Macabu,Rio de Janeiro,2,471,471,179
+3301702,Duque de Caxias,Rio de Janeiro,55,70181,69986,25280
+3301801,Engenheiro Paulo de Frontin,Rio de Janeiro,1,135,135,40
+3301876,Iguaba Grande,Rio de Janeiro,1,141,141,43
+3301900,Itaboraí,Rio de Janeiro,13,4612,4611,1742
+3302007,Itaguaí,Rio de Janeiro,14,9329,9327,3273
+3302254,Itatiaia,Rio de Janeiro,8,6560,6543,2248
+3302270,Japeri,Rio de Janeiro,7,3233,3233,1060
+3302403,Macaé,Rio de Janeiro,26,49832,49814,18237
+3302502,Magé,Rio de Janeiro,25,20676,20670,7465
+3302601,Mangaratiba,Rio de Janeiro,12,6282,6273,2360
+3302700,Maricá,Rio de Janeiro,10,12704,12698,4978
+3302809,Mendes,Rio de Janeiro,1,583,583,211
+3302858,Mesquita,Rio de Janeiro,4,1954,1928,669
+3303203,Nilópolis,Rio de Janeiro,4,5380,5379,1708
+3303302,Niterói,Rio de Janeiro,83,86983,86960,32535
+3303401,Nova Friburgo,Rio de Janeiro,7,5927,5927,2263
+3303500,Nova Iguaçu,Rio de Janeiro,58,22344,22340,7854
+3303609,Paracambi,Rio de Janeiro,8,3870,3869,1479
+3303906,Petrópolis,Rio de Janeiro,42,43019,43001,15703
+3303955,Pinheiral,Rio de Janeiro,1,470,470,163
+3304003,Piraí,Rio de Janeiro,3,2686,2686,976
+3304144,Queimados,Rio de Janeiro,8,8980,8980,3176
+3304201,Resende,Rio de Janeiro,4,783,783,247
+3304300,Rio Bonito,Rio de Janeiro,3,848,848,309
+3304409,Rio Claro,Rio de Janeiro,2,1435,1432,464
+3304524,Rio das Ostras,Rio de Janeiro,9,10451,10439,3699
+3304557,Rio de Janeiro,Rio de Janeiro,813,1349899,1348064,507526
+3304755,São Francisco de Itabapoana,Rio de Janeiro,5,1753,1752,664
+3304904,São Gonçalo,Rio de Janeiro,63,39956,39940,15011
+3305000,São João da Barra,Rio de Janeiro,1,193,193,75
+3305109,São João de Meriti,Rio de Janeiro,35,38013,37989,14058
+3305208,São Pedro da Aldeia,Rio de Janeiro,9,5475,5465,1955
+3305505,Saquarema,Rio de Janeiro,6,1955,1955,716
+3305554,Seropédica,Rio de Janeiro,3,1894,1871,670
+3305604,Silva Jardim,Rio de Janeiro,2,799,799,280
+3305752,Tanguá,Rio de Janeiro,2,469,469,156
+3305802,Teresópolis,Rio de Janeiro,49,51365,51306,18950
+3306107,Valença,Rio de Janeiro,8,4151,4151,1472
+3306206,Vassouras,Rio de Janeiro,1,216,216,82
+3306305,Volta Redonda,Rio de Janeiro,59,34617,34613,12119
+3501608,Americana,São Paulo,1,481,481,163
+3501905,Amparo,São Paulo,1,359,359,110
+3503901,Arujá,São Paulo,4,1368,1368,409
+3504107,Atibaia,São Paulo,11,5404,5368,1774
+3504503,Avaré,São Paulo,1,170,84,24
+3504909,Bananal,São Paulo,2,850,850,307
+3505708,Barueri,São Paulo,14,8717,8717,2925
+3506003,Bauru,São Paulo,15,6310,6136,2018
+3506359,Bertioga,São Paulo,24,16391,16278,5582
+3506607,Biritiba Mirim,São Paulo,4,2400,2400,795
+3507506,Botucatu,São Paulo,2,602,602,203
+3507605,Bragança Paulista,São Paulo,1,223,212,83
+3508405,Cabreúva,São Paulo,4,950,950,296
+3508504,Caçapava,São Paulo,1,343,343,104
+3509007,Caieiras,São Paulo,10,6850,6850,2233
+3509205,Cajamar,São Paulo,21,11071,11071,3747
+3509502,Campinas,São Paulo,118,140778,140437,45628
+3509601,Campo Limpo Paulista,São Paulo,5,3329,3093,998
+3509700,Campos do Jordão,São Paulo,11,9063,9061,2905
+3510401,Capivari,São Paulo,3,757,756,246
+3510500,Caraguatatuba,São Paulo,12,5601,5515,1833
+3510609,Carapicuíba,São Paulo,66,60562,60533,20409
+3512407,Cordeirópolis,São Paulo,2,359,359,100
+3512803,Cosmópolis,São Paulo,4,1652,1647,597
+3513009,Cotia,São Paulo,19,11123,11111,3680
+3513405,Cruzeiro,São Paulo,4,1109,1106,344
+3513504,Cubatão,São Paulo,12,36724,36720,12921
+3513801,Diadema,São Paulo,109,87878,87858,30908
+3515004,Embu das Artes,São Paulo,59,53292,53115,18216
+3515103,Embu-Guaçu,São Paulo,4,902,902,289
+3515707,Ferraz de Vasconcelos,São Paulo,38,30629,30284,9872
+3516309,Francisco Morato,São Paulo,36,22646,22643,7682
+3516408,Franco da Rocha,São Paulo,25,14725,14707,4873
+3518404,Guaratinguetá,São Paulo,1,1011,800,246
+3518701,Guarujá,São Paulo,55,106010,105731,34443
+3518800,Guarulhos,São Paulo,170,215965,215477,69852
+3519071,Hortolândia,São Paulo,7,4223,4223,1366
+3519501,Ibirarema,São Paulo,1,268,268,87
+3519709,Ibiúna,São Paulo,3,1252,1251,408
+3520400,Ilhabela,São Paulo,13,6833,6829,2318
+3522109,Itanhaém,São Paulo,3,554,554,192
+3522208,Itapecerica da Serra,São Paulo,20,14140,14112,4911
+3522505,Itapevi,São Paulo,20,13911,13887,4898
+3523107,Itaquaquecetuba,São Paulo,69,91317,91266,29208
+3523602,Itirapina,São Paulo,2,757,757,265
+3523909,Itu,São Paulo,6,3245,3226,1061
+3524402,Jacareí,São Paulo,10,6365,6365,2109
+3525003,Jandira,São Paulo,8,4974,4963,1692
+3525904,Jundiaí,São Paulo,9,17999,17986,5802
+3527207,Lorena,São Paulo,1,1025,1025,306
+3527306,Louveira,São Paulo,1,246,246,79
+3528403,Mairinque,São Paulo,2,572,572,179
+3528502,Mairiporã,São Paulo,11,3470,3468,1180
+3529005,Marília,São Paulo,13,3190,3189,1084
+3529401,Mauá,São Paulo,60,115251,115117,40127
+3530607,Mogi das Cruzes,São Paulo,16,17634,17625,5662
+3534401,Osasco,São Paulo,84,97587,96549,31491
+3536703,Pederneiras,São Paulo,1,158,152,58
+3537602,Peruíbe,São Paulo,1,277,277,87
+3538006,Pindamonhangaba,São Paulo,1,148,148,48
+3538709,Piracicaba,São Paulo,16,10863,9722,3450
+3539103,Pirapora do Bom Jesus,São Paulo,4,2978,2972,901
+3539806,Poá,São Paulo,4,2040,2040,677
+3540705,Porto Ferreira,São Paulo,1,1234,1234,375
+3541000,Praia Grande,São Paulo,12,21315,21242,6962
+3541307,Presidente Epitácio,São Paulo,1,96,88,33
+3543303,Ribeirão Pires,São Paulo,4,4678,4586,1629
+3543402,Ribeirão Preto,São Paulo,47,23758,23282,7727
+3543907,Rio Claro,São Paulo,3,546,511,171
+3544103,Rio Grande da Serra,São Paulo,7,5195,5166,1842
+3545209,Salto,São Paulo,1,335,335,113
+3546405,Santa Cruz do Rio Pardo,São Paulo,1,995,995,293
+3547304,Santana de Parnaíba,São Paulo,8,3790,3790,1265
+3547809,Santo André,São Paulo,76,99201,99039,33909
+3548500,Santos,São Paulo,46,46262,46162,16841
+3548708,São Bernardo do Campo,São Paulo,94,158245,158190,55231
+3548906,São Carlos,São Paulo,5,663,474,146
+3549904,São José dos Campos,São Paulo,12,6497,6471,2171
+3550308,São Paulo,São Paulo,1359,1726818,1717130,587037
+3550407,São Pedro,São Paulo,1,1557,1506,441
+3550605,São Roque,São Paulo,7,2521,2519,791
+3550704,São Sebastião,São Paulo,23,24706,24678,8326
+3551009,São Vicente,São Paulo,38,85651,85364,28887
+3552205,Sorocaba,São Paulo,22,12433,12179,3911
+3552403,Sumaré,São Paulo,13,11138,11120,3718
+3552502,Suzano,São Paulo,21,21126,21094,6754
+3552700,Tabatinga,São Paulo,1,154,154,55
+3552809,Taboão da Serra,São Paulo,29,42031,42009,14586
+3554805,Tremembé,São Paulo,6,2788,2787,902
+3555406,Ubatuba,São Paulo,18,16416,16363,5506
+3556503,Várzea Paulista,São Paulo,3,15411,15401,4968
+3557006,Votorantim,São Paulo,9,4919,4571,1404
+4100400,Almirante Tamandaré,Paraná,45,28213,28192,8847
+4101408,Apucarana,Paraná,1,284,282,108
+4101804,Araucária,Paraná,21,13872,13872,4523
+4103107,Bocaiúva do Sul,Paraná,8,2378,2378,798
+4103701,Cambé,Paraná,1,386,386,143
+4104006,Campina Grande do Sul,Paraná,9,5389,5382,1850
+4104204,Campo Largo,Paraná,26,9379,9378,3179
+4104253,Campo Magro,Paraná,13,6490,6486,2355
+4104428,Candói,Paraná,2,386,386,129
+4104808,Cascavel,Paraná,11,7154,7142,2319
+4104907,Castro,Paraná,11,6898,6895,2263
+4105805,Colombo,Paraná,23,21304,21300,6957
+4106209,Contenda,Paraná,3,1415,1415,465
+4106902,Curitiba,Paraná,166,122695,122564,42238
+4107652,Fazenda Rio Grande,Paraná,6,2191,2191,701
+4108304,Foz do Iguaçu,Paraná,33,22843,22804,7445
+4108403,Francisco Beltrão,Paraná,6,4541,4541,1567
+4109401,Guarapuava,Paraná,7,4655,4649,1416
+4110201,Inácio Martins,Paraná,1,294,294,92
+4110706,Irati,Paraná,3,1368,1368,436
+4111258,Itaperuçu,Paraná,8,4409,4409,1424
+4112702,Jataizinho,Paraná,2,910,910,302
+4113700,Londrina,Paraná,17,10392,10333,3566
+4114302,Mandirituba,Paraná,5,1473,1473,500
+4115705,Matinhos,Paraná,4,2763,2758,987
+4118204,Paranaguá,Paraná,42,68839,68815,22133
+4118501,Pato Branco,Paraná,1,1158,1158,373
+4119152,Pinhais,Paraná,4,1705,1705,574
+4119301,Pinhão,Paraná,2,1337,1337,458
+4119509,Piraquara,Paraná,16,22566,22539,7371
+4119905,Ponta Grossa,Paraná,64,23961,23934,7902
+4119954,Pontal do Paraná,Paraná,3,1084,1084,382
+4120804,Quatro Barras,Paraná,4,2498,2495,844
+4122206,Rio Branco do Sul,Paraná,16,10179,10179,3522
+4122404,Rolândia,Paraná,1,57,57,22
+4125506,São José dos Pinhais,Paraná,37,20488,20455,6748
+4127106,Telêmaco Borba,Paraná,9,4174,4174,1395
+4127965,Turvo,Paraná,1,599,599,202
+4128104,Umuarama,Paraná,1,412,412,152
+4128203,União da Vitória,Paraná,2,825,825,268
+4128708,Vitorino,Paraná,1,140,140,50
+4201307,Araquari,Santa Catarina,1,773,773,236
+4202008,Balneário Camboriú,Santa Catarina,2,1194,1194,361
+4202305,Biguaçu,Santa Catarina,5,3448,3445,1131
+4202404,Blumenau,Santa Catarina,37,18351,18342,6173
+4202800,Braço do Norte,Santa Catarina,1,503,503,163
+4203204,Camboriú,Santa Catarina,1,125,125,37
+4204202,Chapecó,Santa Catarina,7,2995,2993,904
+4204400,Coronel Freitas,Santa Catarina,1,335,335,98
+4205001,Dionísio Cerqueira,Santa Catarina,3,556,556,194
+4205407,Florianópolis,Santa Catarina,45,43046,42990,14783
+4205902,Gaspar,Santa Catarina,3,1411,1411,438
+4206702,Herval d'Oeste,Santa Catarina,1,694,694,245
+4207106,Ilhota,Santa Catarina,1,314,313,102
+4208203,Itajaí,Santa Catarina,6,3620,3620,1133
+4209102,Joinville,Santa Catarina,7,3103,3096,939
+4209300,Lages,Santa Catarina,8,3222,3222,990
+4209409,Laguna,Santa Catarina,5,3719,3719,1302
+4211306,Navegantes,Santa Catarina,4,2515,2502,704
+4211900,Palhoça,Santa Catarina,3,8135,8127,2535
+4212809,Balneário Piçarras,Santa Catarina,1,194,194,60
+4216602,São José,Santa Catarina,10,7227,7119,2196
+4217204,São Miguel do Oeste,Santa Catarina,1,216,216,70
+4218707,Tubarão,Santa Catarina,7,3435,3434,1244
+4218806,Turvo,Santa Catarina,1,103,103,32
+4300406,Alegrete,Rio Grande do Sul,3,883,883,328
+4300604,Alvorada,Rio Grande do Sul,10,11355,11342,3918
+4301057,Arroio do Sal,Rio Grande do Sul,2,334,334,102
+4301602,Bagé,Rio Grande do Sul,6,1132,1127,382
+4302105,Bento Gonçalves,Rio Grande do Sul,8,6419,6417,2274
+4303004,Cachoeira do Sul,Rio Grande do Sul,1,283,283,101
+4303103,Cachoeirinha,Rio Grande do Sul,4,9463,9367,3176
+4303509,Camaquã,Rio Grande do Sul,1,2226,2226,807
+4303905,Campo Bom,Rio Grande do Sul,5,693,693,236
+4304358,Candiota,Rio Grande do Sul,1,118,118,54
+4304408,Canela,Rio Grande do Sul,3,1433,1433,473
+4304507,Canguçu,Rio Grande do Sul,2,569,569,226
+4304606,Canoas,Rio Grande do Sul,10,7833,7829,2468
+4304630,Capão da Canoa,Rio Grande do Sul,5,8163,8163,2649
+4304663,Capão do Leão,Rio Grande do Sul,3,1910,1910,672
+4304705,Carazinho,Rio Grande do Sul,5,2826,2826,988
+4305108,Caxias do Sul,Rio Grande do Sul,28,22938,22933,8124
+4306056,Cristal,Rio Grande do Sul,1,741,741,259
+4306767,Eldorado do Sul,Rio Grande do Sul,8,4070,4070,1371
+4307005,Erechim,Rio Grande do Sul,3,1137,1137,377
+4307609,Estância Velha,Rio Grande do Sul,2,360,360,125
+4307708,Esteio,Rio Grande do Sul,3,2660,2659,890
+4307906,Farroupilha,Rio Grande do Sul,4,1559,1555,490
+4309209,Gravataí,Rio Grande do Sul,8,11191,11186,3749
+4309308,Guaíba,Rio Grande do Sul,17,13882,13876,4880
+4310108,Igrejinha,Rio Grande do Sul,1,215,215,75
+4310330,Imbé,Rio Grande do Sul,1,1022,1022,341
+4312401,Montenegro,Rio Grande do Sul,3,1389,1389,523
+4313060,Nova Hartz,Rio Grande do Sul,2,617,617,206
+4313409,Novo Hamburgo,Rio Grande do Sul,54,23631,23629,8142
+4313508,Osório,Rio Grande do Sul,1,1354,1066,321
+4313656,Palmares do Sul,Rio Grande do Sul,2,265,265,96
+4314050,Parobé,Rio Grande do Sul,5,1296,1296,436
+4314100,Passo Fundo,Rio Grande do Sul,9,4119,4119,1356
+4314407,Pelotas,Rio Grande do Sul,36,36677,36674,13150
+4314803,Portão,Rio Grande do Sul,3,1594,1594,547
+4314902,Porto Alegre,Rio Grande do Sul,125,175519,175340,61029
+4315602,Rio Grande,Rio Grande do Sul,6,5022,5013,1781
+4316907,Santa Maria,Rio Grande do Sul,8,3232,3232,1025
+4317202,Santa Rosa,Rio Grande do Sul,1,81,81,29
+4317608,Santo Antônio da Patrulha,Rio Grande do Sul,5,629,629,231
+4318002,São Borja,Rio Grande do Sul,1,353,353,114
+4318705,São Leopoldo,Rio Grande do Sul,23,15590,15570,5063
+4319901,Sapiranga,Rio Grande do Sul,10,2546,2546,897
+4320008,Sapucaia do Sul,Rio Grande do Sul,3,1565,1565,552
+4321105,Tapes,Rio Grande do Sul,2,528,528,193
+4321204,Taquara,Rio Grande do Sul,5,987,987,322
+4321501,Torres,Rio Grande do Sul,1,137,137,50
+4321600,Tramandaí,Rio Grande do Sul,4,8334,8273,2687
+4321709,Três Coroas,Rio Grande do Sul,1,143,143,50
+4322400,Uruguaiana,Rio Grande do Sul,17,7576,7563,2309
+4323002,Viamão,Rio Grande do Sul,8,7093,7092,2636
+4323804,Xangri-lá,Rio Grande do Sul,1,841,841,251
+5001102,Aquidauana,Mato Grosso do Sul,2,1869,1860,608
+5002704,Campo Grande,Mato Grosso do Sul,16,7862,7862,2644
+5003207,Corumbá,Mato Grosso do Sul,3,1848,1848,546
+5003702,Dourados,Mato Grosso do Sul,5,1965,1905,604
+5006259,Novo Horizonte do Sul,Mato Grosso do Sul,1,189,189,71
+5006606,Ponta Porã,Mato Grosso do Sul,1,1583,1583,455
+5007901,Sidrolândia,Mato Grosso do Sul,1,535,514,166
+5008305,Três Lagoas,Mato Grosso do Sul,2,674,674,263
+5102504,Cáceres,Mato Grosso,1,145,145,49
+5103403,Cuiabá,Mato Grosso,47,72415,72224,24359
+5107602,Rondonópolis,Mato Grosso,3,488,471,159
+5107909,Sinop,Mato Grosso,1,610,610,194
+5108402,Várzea Grande,Mato Grosso,6,8237,8233,2665
+5200050,Abadia de Goiás,Goiás,1,381,367,147
+5200258,Águas Lindas de Goiás,Goiás,13,10303,10279,3240
+5201108,Anápolis,Goiás,6,7477,7462,2344
+5201405,Aparecida de Goiânia,Goiás,8,8155,6418,2060
+5201702,Aragarças,Goiás,2,713,713,263
+5204508,Caldas Novas,Goiás,6,3338,3267,1061
+5205513,Cocalzinho de Goiás,Goiás,3,978,978,357
+5206206,Cristalina,Goiás,2,1814,1814,560
+5208707,Goiânia,Goiás,55,25616,25553,8967
+5209200,Guapó,Goiás,1,297,297,114
+5210406,Itaberaí,Goiás,3,780,776,248
+5211909,Jataí,Goiás,2,1130,1129,387
+5212501,Luziânia,Goiás,8,4295,4290,1447
+5213103,Mineiros,Goiás,3,693,663,224
+5215231,Novo Gama,Goiás,14,12223,12213,3856
+5215603,Padre Bernardo,Goiás,1,2439,2437,792
+5217609,Planaltina,Goiás,7,2604,2520,843
+5218805,Rio Verde,Goiás,3,1195,1195,369
+5219753,Santo Antônio do Descoberto,Goiás,4,1867,1867,639
+5220454,Senador Canedo,Goiás,3,2466,2465,854
+5220603,Silvânia,Goiás,1,1241,1231,367
+5221601,Uruaçu,Goiás,1,436,436,160
+5221858,Valparaíso de Goiás,Goiás,4,3832,3832,1210
+5222302,Vila Propício,Goiás,1,174,172,62
+5300108,Brasília,Distrito Federal,62,198769,198108,61780
